@@ -1,6 +1,6 @@
 # 🚀 Rocket CLI
 
-> Author: Richard Nsama [(@rknsama)](https://twitter.com/rknsama)
+> Author: Richard Nsama [(@rknsama)](https://twitter.com/rknsama) and heavily inspired by [(@derrickmehaffy)](https://github.com/derrickmehaffy)
 
 Rocket CLI will by my syntactic sugar on top of the [Strapi](https://strapi.io) CLI, specifically with creating projects and organizing them. The rest will be mananged by the Strapi CLI itself.
 
