@@ -1,0 +1,24 @@
+{
+  "name": "rocket_cli",
+  "version": "1.0.0",
+  "description": "A productivity CLI for Strapi Solutions Engineers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rocket": "./src/index.js"
+  },
+  "keywords": [],
+  "author": "Richard K. Nsama (https://github.com/kasonde",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1",
+    "moment": "^2.29.1",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
